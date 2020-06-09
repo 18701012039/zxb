@@ -1,7 +1,6 @@
 package com.example.demo.service;
 
 import com.example.demo.domain.UserAddress;
-import org.springframework.stereotype.Service;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -20,6 +19,7 @@ public class UserServiceImpl implements UserService{
     }
     @Override
     public List<UserAddress> queryUserAddressAll(String userId) {
+        System.out.println("消费者调用成功");
         return userAddressList;
     }
 }
