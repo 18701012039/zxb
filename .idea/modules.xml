@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consumer/consumer.iml" filepath="$PROJECT_DIR$/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-interface/ego-interface.iml" filepath="$PROJECT_DIR$/ego-interface/ego-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-user-service-provider/ego-user-service-provider.iml" filepath="$PROJECT_DIR$/ego-user-service-provider/ego-user-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zxb.iml" filepath="$PROJECT_DIR$/.idea/zxb.iml" />
+    </modules>
+  </component>
+</project>
